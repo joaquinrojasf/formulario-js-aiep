@@ -21,9 +21,8 @@ Este proyecto corresponde a la actividad formativa de la semana 2 del curso Tall
 
 ## Integrantes
 
-- [Nombre 1]
-- [Nombre 2]
-- [Nombre 3]
+- Joaquin rojas Figueroa
+
 
 ## Descripción
 
